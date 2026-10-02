@@ -1,6 +1,6 @@
 # portfolio
 **DEMO**
-![Image](https://github.com/user-attachments/assets/5c384c85-cbe3-45bf-bd99-16fc1db33ebb)
+![Image](https://github.com/user-attachments/assets/67bab76b-593c-4556-9d35-45a0bbe9d4de)
 - [Demo Project](https://amirahadi-web.github.io/portfolio/)
 - Developed by AmirMohammad Ahadi
 - Created - 2026-02-10
