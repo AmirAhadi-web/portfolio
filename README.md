@@ -1,7 +1,7 @@
 # portfolio
 **DEMO**
 ![Image](https://github.com/user-attachments/assets/5c384c85-cbe3-45bf-bd99-16fc1db33ebb)
-- [Demo Project](https://prima-mihan.vercel.app/)
+- [Demo Project](https://amirahadi-web.github.io/portfolio/)
 - Developed by AmirMohammad Ahadi
 - Created - 2026-02-10
 - 🤖 Technologies Used - Html , css , Tailwind , JS , React
